@@ -1,0 +1,55 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run every day at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Fetch quote and update README
+      run: |
+        # Fetch quote from API
+        quote_data=$(curl -s "https://api.quotable.io/random")
+        quote_content=$(echo $quote_data | jq -r '.content')
+        quote_author=$(echo $quote_data | jq -r '.author')
+        
+        # Format the quote
+        formatted_quote="> \"$quote_content\" - $quote_author"
+        
+        # Update README.md
+        sed -i '/<!--STARTS_HERE_QUOTE_README-->/,/<!--ENDS_HERE_QUOTE_README-->/{
+          /<!--STARTS_HERE_QUOTE_README-->/!{
+            /<!--ENDS_HERE_QUOTE_README-->/!d
+          }
+        }' README.md
+        
+        # Insert new quote
+        sed -i "/<!--STARTS_HERE_QUOTE_README-->/a\\$formatted_quote" README.md
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add README.md
+          git commit -m "📝 Update daily quote - $(date +'%Y-%m-%d')"
+          git push
+        fi
