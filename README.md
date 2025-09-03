@@ -22,6 +22,8 @@ I’m passionate about building robust backend systems, automation solutions, an
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=ardelagi&color=yellow&style=flat-square&label=Profile+Views)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardelagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardelagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
@@ -44,7 +46,5 @@ I’m passionate about building robust backend systems, automation solutions, an
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/729602261508161636)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardetmg031@gmail.com)
 
------
 
-![Profile Views](https://komarev.com/ghpvc/?username=ardelagi&color=yellow&style=flat-square&label=Profile+Views)
 
