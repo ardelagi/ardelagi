@@ -1,5 +1,9 @@
 # Hi there, I’m Ardelagi 👋
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ardelagi/ardelagi/main/banner.svg" alt="Banner" width="100%">
+</div>
+
 ### 🚀 Backend Developer • Network Enthusiast
 
 I’m passionate about building robust backend systems, automation solutions, and managing network infrastructure. Currently focused on expanding my DevOps skills and creating efficient Discord bots.
@@ -44,6 +48,3 @@ I’m passionate about building robust backend systems, automation solutions, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ardelagi&color=yellow&style=flat-square&label=Profile+Views)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ardelagi/ardelagi/main/banner.svg" alt="Banner" width="100%">
-</div>
