@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hoi 👋
 
-<!--
-**ardelagi/ardelagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> I am Ardee. A skilled Bot and Web Developer. I am currently 22 Years old and I live near Semarang, Indonesia. I really do enjoy coding since I really like this.
+> I do hope you like my Github profile. If you do so then feel free to Follow me here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ProfileViews](https://komarev.com/ghpvc/?username=ardelagi&color=red&style=flat&abbreviated=true&label=PROFILE+VIEWS)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/729602261508161636?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/729602261508161636)
+
+![nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardelagi&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardelagi&layout=donut&theme=transparent)](https://github.com/ardelagi/github-readme-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="width: 50%; height: 50%"> 
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" style="width: 50%; height: 50%">
+
