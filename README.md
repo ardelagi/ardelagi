@@ -6,9 +6,9 @@
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=ardelagi&color=red&style=flat&abbreviated=true&label=PROFILE+VIEWS)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/729602261508161636?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/729602261508161636)
+[![Discord Presence](https://lanyard.cnrad.dev/api/729602261508161636?showDisplayName=true&hideTimestamp=true&hideActivity=true&theme=dark)](https://discord.com/users/729602261508161636)
 
-![nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardelagi&show_icons=true&theme=transparent)
+![Ardee GitHub stats](https://github-readme-stats.vercel.app/api?username=ardelagi&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardelagi&layout=donut&theme=transparent)](https://github.com/ardelagi/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
